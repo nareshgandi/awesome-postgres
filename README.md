@@ -232,9 +232,9 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 
 ### Blogs
 * [Planet PostgreSQL](https://planet.postgresql.org/) - Blog aggregation service for PostgreSQL.
+* [postgreshelp blog](https://postgreshelp.com) - PostgreSQL Tips and Tricks, Tutorials.
 * [Andrew Dunstan's PostgreSQL and Technical blog](http://adpgtech.blogspot.com/search/label/PostgreSQL/)
 * [Bruce Momjian's PostgreSQL blog](https://momjian.us/main/blogs/pgblog.html)
-* [postgreshelp blog](https://postgreshelp.com)
 * [Craig Kerstiens PostgreSQL posts](http://www.craigkerstiens.com/categories/postgres/) - Set of posts on PostgreSQL cool features, tips and tricks.
 * [Database Soup](http://www.databasesoup.com/search/label/postgresql/) - Josh Berkus' blog.
 * [Michael Paquier's blog](https://paquier.xyz/)
